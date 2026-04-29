@@ -1,0 +1,86 @@
+species,sizecat,guild,cluster
+Smooth dogfish,M,1,a
+Smooth dogfish,L,1,a
+Black sea bass,S,1,a
+Black sea bass,M,1,a
+Northern sand lance,M,2,a
+Spiny dogfish,M,2,b
+Spiny dogfish,S,2,b
+Northern shortfin squid,L,2,b
+Atlantic herring,S,2,c
+Atlantic herring,M,2,c
+Atlantic mackerel,L,2,c
+Atlantic mackerel,M,2,c
+Atlantic mackerel,S,2,c
+Alewife,M,2,c
+Butterfish,S,2,d
+Longfin squid,L,2,d
+Winter skate,S,3,a
+Little skate,S,3,a
+Little skate,M,3,a
+Winter skate,M,3,a
+Fawn cusk-eel,L,3,a
+Atlantic cod,S,3,b
+Atlantic cod,M,3,b
+Red hake,M,3,b
+Longhorn sculpin,S,3,b
+Longhorn sculpin,M,3,b
+White hake,S,3,b
+Red hake,S,3,b
+Fourspot flounder,S,3,b
+Spotted hake,S,3,b
+Windowpane,S,3,b
+Windowpane,M,3,b
+Yellowtail flounder,S,3,c
+Smooth skate,M,4,a
+Pollock,M,4,a
+Silver hake,S,4,a
+Acadian redfish,M,4,a
+Pollock,S,4,a
+Silver hake,M,4,a
+Red hake,L,4,a
+White hake,M,4,a
+Pollock,XL,4,a
+Pollock,L,4,a
+Thorny skate,S,5,a
+Haddock,S,5,a
+Thorny skate,M,5,a
+Yellowtail flounder,M,5,a
+Yellowtail flounder,L,5,a
+Winter flounder,S,5,a
+Winter flounder,M,5,a
+Witch flounder,M,5,a
+Witch flounder,L,5,a
+Gulf stream flounder,S,5,a
+Scup,M,5,a
+American plaice,S,5,a
+Winter flounder,L,5,a
+Croaker,S,5,a
+Croaker,M,5,a
+Haddock,M,5,b
+Haddock,L,5,b
+American plaice,M,5,b
+American plaice,L,5,b
+Ocean pout,L,5,b
+Spiny dogfish,L,6,a
+Atlantic cod,L,6,a
+Atlantic cod,XL,6,a
+Silver hake,L,6,a
+White hake,L,6,a
+Thorny skate,L,6,a
+Thorny skate,XL,6,a
+Sea raven,S,6,a
+Sea raven,M,6,a
+Goosefish,L,6,a
+Summer flounder,L,6,a
+Atlantic sharpnose shark,L,6,a
+Bluefish,M,6,a
+Bluefish,L,6,a
+Spotted hake,M,6,a
+Fourspot flounder,M,6,a
+Summer flounder,M,6,a
+Bluefish,S,6,b
+Weakfish,M,6,b
+Weakfish,S,6,b
+Winter skate,L,6,c
+Winter skate,XL,6,c

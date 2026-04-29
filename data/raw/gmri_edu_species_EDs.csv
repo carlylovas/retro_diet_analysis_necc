@@ -1,0 +1,4 @@
+"Taxa.broad","Taxa.med","Taxa","N_combustions","Ash_perc","H2O_perc","Dry_KJg_mean","Dry_KJg_SD","Ash_KJg","Wet_KJg","Shell_perc"
+"Chordata","Osteichthyes","Clupea harengus",20,8,57,25.1,2.3,27.2,10.6,NA
+"Chordata","Osteichthyes","Gadus morhua",9,16,78,18.2,0.3,21.6,4.2,NA
+"Chordata","Osteichthyes","Melanogrammus aeglefinus",4,17,78,20.3,0.7,24.3,4.5,NA

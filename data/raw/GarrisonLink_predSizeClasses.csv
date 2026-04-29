@@ -1,0 +1,42 @@
+species_scinam,species_comnam,small_min,small_max,medium_min,medium_max,large_min,large_max,xlarge_min,xlarge_max
+Mustelus canis,Smooth dogfish,1,40,41,60,61,80,81,999
+Squalus acanthias,Spiny dogfish,1,40,41,60,61,80,81,999
+Raja ocellata,Winter skate,1,30,31,60,61,80,81,999
+Leucoraja erinacea,Little skate,1,30,31,60,61,999,,
+Raja senta,Smooth skate,1,30,31,60,61,999,,
+Raja radiata,Thorny skate,1,30,31,60,61,80,81,999
+Clupea harengus,Atlantic herring,1,20,21,30,31,999,,
+Alosa pseudoharengus,Alewife,1,20,21,30,31,999,,
+Merluccius bilinearis,Silver hake,1,20,21,40,41,999,,
+Gadus morhua,Atlantic cod,1,20,21,50,51,80,81,999
+Melanogrammus aeglefinus,Haddock,1,20,21,50,51,80,81,999
+Pollachius virens,Pollock,1,20,21,50,51,80,81,999
+Urophycis tenuis,White hake,1,20,21,40,41,999,,
+Urophycis chuss,Red hake,1,20,21,40,41,999,,
+Urophycis regia,Spotted hake,1,20,21,40,41,999,,
+Hippoglossoides platessoides,American plaice,1,20,21,40,41,70,71,999
+Paralichthys dentatus,Summer flounder,1,20,21,40,41,70,71,999
+Paralichthys oblongus,Fourspot flounder,1,20,21,40,41,999,,
+Limanda ferruginea,Yellowtail flounder,1,20,21,40,41,70,71,999
+Pseudopleuronectes americanus,Winter flounder,1,20,21,40,41,70,71,999
+Glyptocephalus cynoglossus,Witch flounder,1,20,21,40,41,70,71,999
+Scophthalmus aquosus,Windowpane,1,20,21,40,41,999,,
+Citharichthys arctifrons,Gulf stream flounder,1,20,21,999,,,,
+Scomber scombrus,Atlantic mackerel,1,20,21,35,36,999,,
+Peprilus triacanthus,Butterfish,1,20,21,999,,,,
+Pomatomus saltatrix,Bluefish,1,30,31,70,71,999,,
+Micropogon undulatus,Atlantic croaker,1,25,26,50,51,999,,
+Centropristis striata,Black sea bass,1,25,26,50,51,999,,
+Stenotomus chrysops,Scup,1,25,26,50,51,999,,
+Cynoscion regalis,Weakfish,1,25,26,50,51,999,,
+Sebastes fasciatus,Acadian redfish,1,25,26,50,51,999,,
+Myoxocephalus octodecemspinosus,Longhorn sculpin,1,25,26,50,51,999,,
+Hemitripterus americanus,Sea raven,1,25,26,50,51,999,,
+Ammodytes dubius,Northern sand lance,1,10,11,25,26,999,,
+Macrozoarces americanus,Ocean pout,1,60,,,61,999,,
+Lepophidium profundorum,Fawn cusk-eel,1,60,,,61,999,,
+Lophius americanus,Goosefish,1,60,,,61,999,,
+Rhizoprionodon terraenovae,Atlantic sharpnose shark,1,60,,,61,999,,
+Illex illecebrosus,Northern shortfin squid,1,30,,,31,999,,
+Loligo pealeii,Longfin squid,1,30,,,31,999,,
+Tautoga onitis,Tautog,1,25,26,50,51,999,,
